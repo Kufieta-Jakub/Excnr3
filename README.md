@@ -8,7 +8,7 @@ czytelników oraz proces wypożyczania i zwrotu. Każdy typ materiału ma inną
 liczbę dni wypożyczenia, a biblioteka powiadamia czytelnika o operacjach
 (e-mail/SMS) bez wiedzy o konkretnej implementacji powiadomienia.
 
-Projekt zaimplementowany w języku **C#** (`Biblioteka.cs`).
+Projekt zaimplementowany w języku **C#** (`Program.cs`).
 
 ## Lista klas
 
